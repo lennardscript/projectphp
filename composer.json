@@ -1,0 +1,15 @@
+{
+    "name": "projectphp/notas-app",
+    "autoload": {
+        "psr-4": {
+            "Projectphp\\NotasApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro Burgos",
+            "email": "burgosleandro.c@gmail.com"
+        }
+    ],
+    "require": {}
+}
